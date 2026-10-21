@@ -19,5 +19,10 @@ Implemented using sorting and a min-heap.
 - Time complexity: O(n log n) for both functions.
 
 ## Language
+## Test Results
+
+All 14 unit tests passed successfully.
+
+![Python unit test results](test-results.png)
 
 Python 3
