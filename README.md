@@ -18,11 +18,12 @@ Implemented using sorting and a min-heap.
 - min_rooms_required(events): Calculates the minimum number of rooms needed.
 - Time complexity: O(n log n) for both functions.
 
-## Language
 ## Test Results
 
 All 14 unit tests passed successfully.
 
 ![Python unit test results](test-results.png)
+
+## Language
 
 Python 3
