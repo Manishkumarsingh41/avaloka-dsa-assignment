@@ -18,6 +18,9 @@ Implemented using sorting and a min-heap.
 - min_rooms_required(events): Calculates the minimum number of rooms needed.
 - Time complexity: O(n log n) for both functions.
 
+## PDF Submittion
+![Explanation and Time Complexity](Manish_Singh_Avaloka_Assignment.pdf)
+
 ## Test Results
 
 All 14 unit tests passed successfully.
